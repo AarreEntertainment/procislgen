@@ -1,0 +1,225 @@
+Initialize engine version: 5.5.1p2 (549b8aa7a408)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ASUS R5 230 Series (ID=0x6779)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Aarre\testi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Aarre\testi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Aarre\testi_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Aarre\testi_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Aarre\testi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Aarre\testi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Aarre\testi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Aarre\testi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Aarre\testi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Aarre\testi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Aarre\testi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Aarre\testi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\Aarre\testi_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Aarre\testi_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: E:\Aarre\testi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Aarre\testi_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.152804 ms
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Texture is not accessible.
+ 
+(Filename:  Line: 351)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 62d8 -> priority: 1 
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+
+Failed to get pixels of splat texture
+ 
+(Filename:  Line: 244)
+

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\helperClasses\assetCreation.cs">
+    <Files>
+      <File FileName="Assets\terrainGenerator.cs" Line="54" Column="20" />
+      <File FileName="Assets\scripts\helperClasses\topologies.cs" Line="67" Column="66" />
+      <File FileName="Assets\scripts\helperClasses\fractals.cs" Line="26" Column="19" />
+      <File FileName="Assets\worldConstants.cs" Line="32" Column="2" />
+      <File FileName="Assets\scripts\helperClasses\assetCreation.cs" Line="28" Column="33" />
+      <File FileName="Assets\Standard Assets\Editor\ImageEffects\ColorCorrectionLookupEditor.cs" Line="62" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
